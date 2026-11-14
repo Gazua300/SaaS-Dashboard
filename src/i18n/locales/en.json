@@ -1,0 +1,33 @@
+{
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "customers": "Customers",
+    "products": "Products",
+    "settings": "Settings",
+
+    "preferences": "Preferences",
+    "language": "Language",
+    "timezone": "Timezone",
+
+    "notifications": "Notifications",
+    "emailNotifications": "Email Notifications",
+    "pushNotifications": "Push Notifications",
+
+    "emailNotifs": "Email notification",
+    "marketingEmails": "Marketing emails",
+    "pushNotifs": "Push notification",
+    "enabledMessage": "{{feature}} active",
+    "disabledMessage": "{{feature}} inactive",
+
+    "jan": "Jan",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Apr",
+    "may": "May",
+    "jun": "Jun",
+    
+    "Electronics": "Electronics",
+    "Accessories": "Accessories",
+    "Software": "Software",
+    "Services": "Services"
+}
