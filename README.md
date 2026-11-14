@@ -1,6 +1,6 @@
 # 📈 Análise e Painel de Controle SaaS — Central de Inteligência de Negócios
 
-[![Live Demo](https://img.shields.io/badge/Live_App-Experimente-2ea44f?style=for-the-badge&logo=vercel)](https://dashboard-project-nu-one.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_App-Experimente-2ea44f?style=for-the-badge&logo=vercel)](https://saa-s-dashboard-eta.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/Autor-Flamarion_França-007acc?style=for-the-badge&logo=render)](https://meu-porfolio-two.vercel.app/)
 
 > **Núcleo do Ecossistema:** O *Painel de Controle SaaS* funciona como o mecanismo centralizado de Business Intelligence (BI) da plataforma. Ele agrega fluxos de receita, volumes de transações, crescimento de usuários da plataforma e desempenho dos comerciantes gerados em toda a plataforma. **[Meu Delivery](https://meu-delivery-eight.vercel.app/)** and **[Meu Delivery Provedor](https://meu-delivery-provedor.vercel.app/)**, powered by **Meu Delivery Server**.
@@ -11,7 +11,7 @@
 
 Explore as análises da plataforma e os controles de gerenciamento diretamente no seu navegador:
 
-* 🌐 **Applicação SaaS em tempo real:** [https://dashboard-project-nu-one.vercel.app/](https://dashboard-project-nu-one.vercel.app/) 
+* 🌐 **Applicação SaaS em tempo real:** [https://dashboard-project-nu-one.vercel.app/](https://saa-s-dashboard-eta.vercel.app/) 
 * 🛒 **Aplicativo para clientes em tempo real (Fonte de dados):** [https://meu-delivery-eight.vercel.app/](https://meu-delivery-eight.vercel.app/)
 * 💼 **Portfólio do Desenvolvedor:** [https://meu-porfolio-two.vercel.app/](https://meu-porfolio-two.vercel.app/)
 
